@@ -1,0 +1,38 @@
+data/h5data/broadleaf_beech_european beech.h5
+data/h5data/broadleaf_long-lived deciduous_cherry.h5
+data/h5data/broadleaf_long-lived deciduous_european ash.h5
+data/h5data/broadleaf_long-lived deciduous_linden.h5
+data/h5data/broadleaf_long-lived deciduous_sycamore maple.h5
+data/h5data/broadleaf_oak_english oak.h5
+data/h5data/broadleaf_oak_red oak.h5
+data/h5data/broadleaf_oak_sessile oak.h5
+data/h5data/broadleaf_short-lived deciduous_alder.h5
+data/h5data/broadleaf_short-lived deciduous_birch.h5
+data/h5data/broadleaf_short-lived deciduous_poplar.h5
+data/h5data/needleleaf_douglas fir_douglas fir.h5
+data/h5data/needleleaf_fir_silver fir.h5
+data/h5data/needleleaf_larch_european larch.h5
+data/h5data/needleleaf_larch_japanese larch.h5
+data/h5data/needleleaf_pine_black pine.h5
+data/h5data/needleleaf_pine_scots pine.h5
+data/h5data/needleleaf_pine_weymouth pine.h5
+data/h5data/needleleaf_spruce_norway spruce.h5
+data/TreeSatAI/broadleaf_beech_european beech.geojson
+data/TreeSatAI/broadleaf_long-lived deciduous_cherry.geojson
+data/TreeSatAI/broadleaf_long-lived deciduous_european ash.geojson
+data/TreeSatAI/broadleaf_long-lived deciduous_linden.geojson
+data/TreeSatAI/broadleaf_long-lived deciduous_sycamore maple.geojson
+data/TreeSatAI/broadleaf_oak_english oak.geojson
+data/TreeSatAI/broadleaf_oak_red oak.geojson
+data/TreeSatAI/broadleaf_oak_sessile oak.geojson
+data/TreeSatAI/broadleaf_short-lived deciduous_alder.geojson
+data/TreeSatAI/broadleaf_short-lived deciduous_birch.geojson
+data/TreeSatAI/broadleaf_short-lived deciduous_poplar.geojson
+data/TreeSatAI/needleleaf_douglas fir_douglas fir.geojson
+data/TreeSatAI/needleleaf_fir_silver fir.geojson
+data/TreeSatAI/needleleaf_larch_european larch.geojson
+data/TreeSatAI/needleleaf_larch_japanese larch.geojson
+data/TreeSatAI/needleleaf_pine_black pine.geojson
+data/TreeSatAI/needleleaf_pine_scots pine.geojson
+data/TreeSatAI/needleleaf_pine_weymouth pine.geojson
+data/TreeSatAI/needleleaf_spruce_norway spruce.geojson
