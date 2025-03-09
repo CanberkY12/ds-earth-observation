@@ -31,14 +31,19 @@ References
 
 [1] Phiri, D., Simwanda, M., Salekin, S., Nyirenda, V. R., Murayama, Y., & Ranagalage, M. (2020). Sentinel-2 data for land cover/use 
 mapping: A review. Remote Sensing, 12(14), 2291. 
+
 [2]  Kwenda, C. G. M. F.-D. J. (2023). Forest Image Classification Based on Deep Learning and XGBoost Algorithm. 
+
 [3]  Zhou, J., Cui, G., Hu, S., Zhang, Z., Yang, C., Liu, Z., Wang, L., Li, C., & Sun, M. (2020). Graph neural networks: A review of methods 
 and applications. AI Open, 1, 57–81. https://doi.org/10.1016/j.aiopen.2021.01.001 
+
 [4]  Marjani, M., Mohammadimanesh, F., Mahdianpari, M., & Gill, E. W. (2025). A novel spatio-temporal vision transformer model for 
 improving wetland mapping using multi-seasonal Sentinel data. Remote Sensing Applications: Society and Environment, 37, 101401. 
-https://doi.org/10.1016/j.rsase.2024.101401 
+https://doi.org/10.1016/j.rsase.2024.101401.
+
 [5] Sharma, N., Jain, V., & Mishra, A. (2018). An analysis of convolutional neural networks for image classification. International 
 Conference on Computational Intelligence and Data Science, 132(1), 377–381. 
+
 [6] Demonstrates the spectral bands' resolution distances to wavelength distribution. Cited from: Lolli, S., Alparone, L., Arienzo, A., & 
 Garzelli, A. (2024). Characterizing Dust and Biomass Burning Events from Sentinel-2 Imagery. Atmosphere, 15(6), 672. 
 https://doi.org/10.3390/atmos15060672
